@@ -10,7 +10,7 @@
 - Collaborative + content-based hybrid model.
 - Metrics: Precision@K, Recall@K, NDCG@K.
 - Demo: Streamlit app for interactive recommendations.
-- Tech: Python, Pandas, LightFM, FAISS (optional), Streamlit.
+- Tech: Python, Pandas, LightFM, FAISS , Streamlit.
 
 ## Quick start (local)
 ```bash
