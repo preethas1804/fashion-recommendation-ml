@@ -4,7 +4,7 @@
 **Short:** Hybrid recommender combining collaborative filtering (LightFM) + content features (product metadata and image/text embeddings).
 
 **Author:** Preetha Selvakumar — B.Tech (IIT Tirupati)  
-**Contact:** ch22b027@iittp.ac.in | LinkedIn: <your-linkedin>
+**Contact:** ch22b027@iittp.ac.in | LinkedIn: <www.linkedin.com/in/preetha-selvakumar-904257259>
 
 ## Highlights
 - Collaborative + content-based hybrid model.
